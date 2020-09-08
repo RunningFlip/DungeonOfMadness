@@ -1,0 +1,8 @@
+﻿  Application.cpp
+D:\Source\Repos\DungeonOfMadness\DungeonOfMadness\src\IO\ParserTable.h(50,3): warning C4002: too many arguments for function-like macro invocation 'assert'
+D:\Source\Repos\DungeonOfMadness\DungeonOfMadness\src\IO\ParserTable.h(58,3): warning C4002: too many arguments for function-like macro invocation 'assert'
+  GameManager.cpp
+D:\Source\Repos\DungeonOfMadness\DungeonOfMadness\src\IO\ParserTable.h(50,3): warning C4002: too many arguments for function-like macro invocation 'assert'
+D:\Source\Repos\DungeonOfMadness\DungeonOfMadness\src\IO\ParserTable.h(58,3): warning C4002: too many arguments for function-like macro invocation 'assert'
+  Generating Code...
+  DungeonOfMadness.vcxproj -> D:\Source\Repos\DungeonOfMadness\Debug\DungeonOfMadness.exe
