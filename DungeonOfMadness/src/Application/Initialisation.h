@@ -15,8 +15,10 @@ namespace Initialisation
 
 		NpcCharacter* shopKeeper = new NpcCharacter("Martin", 100, 20, 20, nullptr);
 		
-
 		//---Testing------------------------------------------------
+		//The following pointers are not deleted because of the test purposes! 
+		//This section will be deleted in the future. 
+		//I am aware that ignoring the deletion of this pointer is a bad practice! ;)
 		DialogueContainer* testDialogue = nullptr;
 
 		DialogueBranch* aaBranch = new DialogueBranch('A', "Fine thanks.", "...");
